@@ -1,0 +1,5 @@
+#include "utf16be_from_bsf_static_string.c"
+#include "utf16le_from_bsf_static_string.c"
+#include "utf32be_from_bsf_static_string.c"
+#include "utf32le_from_bsf_static_string.c"
+#include "utf8_from_bsf_static_string.c"
